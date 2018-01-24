@@ -4,9 +4,9 @@ Somos uma startup americana com desenvolvedores web e sócios brasileiros, onde 
 
 # Teste Front-end
 
-Essa teste consiste em entendermos um pouco mais sobre seus conhecimentos com HTML, CSS, JavaScript, VueJS 2, VueRouter, Vuex, Código responsivo, suporte a crossbrowser e lógica.
+Essa teste consiste em entendermos um pouco mais sobre seus conhecimentos com HTML, CSS, JavaScript, VueJS 2, VueRouter, Vuex, suporte a crossbrowser e lógica.
 
-Lembre-se: tente sempre usar ES6 ou superior.
+Lembre-se: não perca muito tempo no HTML e CSS, faça algo simples e tente sempre usar ES6 ou superior.
 
 # Orientações
 
