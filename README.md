@@ -1,6 +1,6 @@
 # Sobre a empresa
 
-Somos uma startup americana com desenvolvedores web e sócios brasileiros, onde nosso grande foco é continuar o desenvolvimento de uma ideia disruptiva do mercado de nóticias.
+Somos uma startup americana com desenvolvedores web e sócios brasileiros, onde nosso grande foco é continuar o desenvolvimento de uma ideia disruptiva do mercado de notícias.
 
 # Teste Front-end
 
@@ -20,7 +20,7 @@ Depois disso crie toda a estrutura de um projeto em VueJS, pode usar boilerplate
 2. Crie uma segunda página que irá dar um hide no input e irá exibir uma lista com todos os repositórios do usuário (https://developer.github.com/v3/repos/) em questão. Você também deverá armazenar esses repositórios em algum estado do vuex.
 3. Coloque um botão de Voltar para o browser dar um back a página anterior com o input.
 
-Sugeri que tente modularizar as rotas e os estados (vuex), mesmo que sejam poucos.
+Sugero que tente modularizar as rotas e os estados (vuex), mesmo que sejam poucos.
 
 # Requisitos obrigatórios
 
