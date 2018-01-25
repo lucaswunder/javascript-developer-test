@@ -20,7 +20,7 @@ Depois disso crie toda a estrutura de um projeto em VueJS, pode usar boilerplate
 2. Crie uma segunda página que irá dar um hide no input e irá exibir uma lista com todos os repositórios do usuário (https://developer.github.com/v3/repos/) em questão. Você também deverá armazenar esses repositórios em algum estado do vuex.
 3. Coloque um botão de Voltar para o browser dar um back a página anterior com o input.
 
-Sugero que tente modularizar as rotas e os estados (vuex), mesmo que sejam poucos.
+Sugiro que tente modularizar as rotas e os estados (vuex), mesmo que sejam poucos.
 
 # Requisitos obrigatórios
 
