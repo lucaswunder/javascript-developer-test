@@ -12,7 +12,7 @@ Lembre-se: não perca muito tempo no HTML e CSS, faça algo simples e tente semp
 
 Primeiramente, faça um fork e clone o projeto na sua máquina.
 
-Depois disso crie toda a estrutura de um projeto em VueJS, pode usar boilerplate, skeleton ou qualquer coisa que você julgue necessário para iniciar o projeto, mas lembre-se sempre da performance, afinal incluir bibliotecas externas atoa pode no ser legal.
+Depois disso crie toda a estrutura de um projeto em VueJS, pode usar boilerplate, skeleton ou qualquer coisa que você julgue necessário para iniciar o projeto, mas lembre-se sempre da performance, afinal incluir bibliotecas externas atoa pode não ser legal.
 
 # O que você irá precisar desenvolver
 
