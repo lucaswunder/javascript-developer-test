@@ -1,0 +1,2 @@
+export const SET_USER_REPOS = 'SET_USER_REPOS'
+export const CLEAR_USER_REPOS = 'CLEAR_USER_REPOS'

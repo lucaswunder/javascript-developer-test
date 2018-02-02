@@ -3,17 +3,19 @@ import {Users} from '../../../services/resources'
 
 export default {
   setUser: ({commit}, searchString) => {
+    if (!searchString.replace(/\s/g, '').length) {
+      commit(types.CLEAR_USER)
+      return
+    }
     Users(searchString).then(response => {
-      commit(types.GET_USER, response.data)
-      console.log(response.status)
+      commit(types.SET_USER, response.data)
     }).catch(error => {
       if (error.status === 404) {
-        console.log(error.status)
+        commit(types.SET_USER, ['not_found'])
       }
     })
   },
-  getUser: ({commit}, searchString) => {
-    Users(searchString).then(response => {
-    })
+  clearUser: ({commit}) => {
+    commit(types.CLEAR_USER)
   }
 }
